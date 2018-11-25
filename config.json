@@ -1,7 +1,7 @@
 {
-  "token" : "NTE1NjE0NjA0Mzc0NTczMDU2.DtsyZw.JDJAFMKfh5fyofdflM_t2W3sIuQ", 
+  "token" : "NTE1NjE0NjA0Mzc0NTczMDU2.DtxQew.y-rp7JPcrSDlBSM6awOzfTFmBhY", 
   "ms" : 1500,
   "roleToDisco" : ["disco"], 
-  "prefix" : "g!",
+  "prefix" : "n!",
   "allowedUsers" : ["470602554611597315", "411137717884289024"] 
 }
